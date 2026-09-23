@@ -1,0 +1,6 @@
+{
+  "name": "Auraverse",
+  "description": "3D anime social gaming universe with custom avatars, open world districts, vehicles, pets, mini-games, and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
